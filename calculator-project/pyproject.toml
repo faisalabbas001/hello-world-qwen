@@ -1,0 +1,7 @@
+[project]
+name = "calculator-project"
+version = "0.1.0"
+description = "A simple calculator implementing basic arithmetic operations: addition, subtraction, multiplication, and division"
+readme = "README.md"
+requires-python = ">=3.11"
+dependencies = []
