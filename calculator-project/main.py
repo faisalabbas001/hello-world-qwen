@@ -2,7 +2,7 @@ from calc import add, subtract, multiply, divide, calculate_all_operations
 
 
 def main():
-    print("Calculator Project - Arithmetic Operations")
+    print("Calculator Project - Arithmetic Operations jaklsdjaklsdjaskldjaskldjaskldjaskldjaskljkljaskld")
     print("=" * 40)
     
     # Example calculations
